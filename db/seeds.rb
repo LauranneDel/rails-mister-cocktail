@@ -22,4 +22,4 @@ Ingredient.create(name: "mint leaves")
 Cocktail.create(name: "Mojito")
 Cocktail.create(name: "Jus de citron")
 
-Dose.create(description: "Classique et intemporel cocktail", cocktail: 1, ingredient: 1)
+#Dose.create(description: "Classique et intemporel cocktail", cocktail: 1, ingredient: 1)
